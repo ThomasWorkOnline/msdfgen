@@ -26,7 +26,6 @@ project "msdfgen"
 
 	defines
 	{
-		"MSDFGEN_PUBLIC=" -- static link
 	}
 
 	flags
