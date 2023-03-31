@@ -20,6 +20,9 @@
 *.suo
 *.VC.opendb
 *.VC.db
+*vcxproj
+*vcxproj.filters
+*vcxproj.user
 /bin/*.lib
 /bin/msdfgen
 output.png
